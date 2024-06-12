@@ -1,0 +1,12 @@
+.DarkModeToggle {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 10px;
+
+    &:hover {
+        background-color: #444;
+    }
+}
